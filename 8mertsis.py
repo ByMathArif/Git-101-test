@@ -47,3 +47,5 @@ print(cikarilan)
 print("Arif Esat Güngör")
 
 "Push Ogreniyoruz"
+
+"Ethem abi iyi akşamlar Nasılsın ?"
