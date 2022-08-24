@@ -81,5 +81,6 @@ print("Merahaba Sayın ",ad,soyad,"Mobil Bankanıza Hoş Geldiniz")
 
 print("İyi Akşamlar Sayın %s %s E-Ticaret Sitemize Hoş Geldiniz" % (ad,soyad)) # .format ile olana benzer işlevi görüyor
 
+"Bİr taş ile iki kuş vurdum :) "
 
 
