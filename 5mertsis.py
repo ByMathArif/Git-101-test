@@ -57,7 +57,7 @@ elif secenekler == 3:
 else:
     secenekler == 4
     print("sonuc:" + str(f*h))
-
+"pull ogreniyorum"
 
 
 
