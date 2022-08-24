@@ -58,7 +58,7 @@ else:
     secenekler == 4
     print("sonuc:" + str(f*h))
 
-
+"pull ile visual studio code'daki dosyayı güncellemek istiyoruz"
 
 
 
