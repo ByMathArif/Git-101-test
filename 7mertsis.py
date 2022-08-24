@@ -5,7 +5,7 @@ import numbers
 
 
 dosya = open("Sanat Hikayesi2.txt","w")
-print("Luna Kardelen",file=dosya)
+print("Kardelen",file=dosya)
 
 
 herhangi_bir_sey = open("Hedeflerim ve BEN.py","w")
@@ -50,7 +50,7 @@ numbers= [x for x in range(1,11)]
 print(topla1den_basla_N_e_kadar(*numbers))
 
 
-
+"arif esat"
 
 
 
