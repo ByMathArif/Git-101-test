@@ -71,10 +71,10 @@ print(k)
 
 print(*b) #*b LUNA-> L U N A 
 
-ad = "Luna"
-soyad = "Kardelen"
+ad = "arif esat"
+soyad = "güngör"
 
-print( "Merhaba Sayın {} {} Hayatıma Hoş Gelin İyi Ki Geldin".format(ad,soyad))  # .format ve  {} ile aralara eklemek!
+print( "Merhaba Sayın {} {} Ziraat Mobile Hoş Geldiniz".format(ad,soyad))  # .format ve  {} ile aralara eklemek!
 # Değişkenleri bir string sınıfına ait objede {} parametrelerine göndererek yazdırabilmek
 
 print("Merahaba Sayın ",ad,soyad,"Mobil Bankanıza Hoş Geldiniz")

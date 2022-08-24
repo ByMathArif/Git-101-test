@@ -44,6 +44,6 @@ cikarilan = basamaklar.pop(3)
 print(basamaklar)
 print(cikarilan)
 
-
+print("Arif Esat Güngör")
 
 
