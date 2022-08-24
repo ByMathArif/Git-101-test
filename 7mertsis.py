@@ -51,7 +51,8 @@ print(topla1den_basla_N_e_kadar(*numbers))
 
 
 "arif esat"
-" Çanakkale 18 Mart üniversitesi Bilgisayar Mühendisliği okuyorum"
+" Çanakkale 18 Mart üniversitesi Bilgisayar Mühendisliği Okuyorum" 
+"Bilişim Vadisi Kuluçka Merkez Wifi sorunu cidden insanı delirtiyor"
 
 
 
