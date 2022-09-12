@@ -12,6 +12,9 @@ ogrenciler = ["Melike","Merve","Hilal","Gokce","Sena","Nisa","İrem","Berre",1,7
 
 print(ogrenciler[3],end = "  EN BAŞARILISI ")   
 
+for ogrenci in ogrenciler:
+    print(ogrenci)
+
 print(len(ogrenciler))    
 ogrenciler.remove("Merve")     #misal Merve disipline gitti o yüzden listeden çıkarmak için bir komut
 print(ogrenciler,sep="Disiplinsiz ÖĞrenciler")
@@ -36,11 +39,11 @@ print(ogrenciler)
 basamaklar = [1,2,5]
 #basamaklar = basamaklar * 99 
 
-basamaklar.append("türev alma kurallrı"*2)   #append ile listeye eleman eklemek için kkullanıyoruz
+basamaklar.append(" türev alma kurallrı"*2)   #append ile listeye eleman eklemek için kkullanıyoruz
 print(basamaklar,sep="SÜÜÜÜÜÜÜÜÜÜÜÜÜÜ")
 
 
-cikarilan = basamaklar.pop(3)
+cikarilan = basamaklar.pop(2)
 print(basamaklar)
 print(cikarilan)
 
@@ -49,3 +52,12 @@ print("Arif Esat Güngör")
 "Push Ogreniyoruz"
 
 "Ethem abi iyi akşamlar Nasılsın ?"
+
+liste =[15,26,548,5648,2548,2,892,69685,241,221,51,1,2,54,65]
+print(liste)
+liste.sort()
+print(liste)
+
+liste.sort(reverse=True)
+print(liste)
+
